@@ -42,19 +42,19 @@
 # print("operator.eq(a,b)", operator.eq(a, b))
 # print("operator.eq(a,b)", operator.eq(a, c))
 #
-list1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-list2 = (1, 2, 3, 4, 5)
-list3 = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
-print(list3.count(1)) # 统计某个元素在列表中出现的次数
-print(list3.index(1)) # 括号里面是参数你要查找到元素，函数返回的是第一个元素的下标
-print(list1, len(list1), max(list1), min(list1), list(list2))
-
-list1.reverse()#列表反转
-print(list1)
-list1.sort() #将列表从小达到排列了一遍
-print(list1)
-list_copy = list1.copy()
-print(list_copy)
-list_copy.clear()
-print(list_copy)
-
+# list1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+# list2 = (1, 2, 3, 4, 5)
+# list3 = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+# print(list3.count(1)) # 统计某个元素在列表中出现的次数
+# print(list3.index(1)) # 括号里面是参数你要查找到元素，函数返回的是第一个元素的下标
+# print(list1, len(list1), max(list1), min(list1), list(list2))
+#
+# list1.reverse()#列表反转
+# print(list1)
+# list1.sort() #将列表从小达到排列了一遍
+# print(list1)
+# list_copy = list1.copy()
+# print(list_copy)
+# list_copy.clear()
+# print(list_copy)
+#
